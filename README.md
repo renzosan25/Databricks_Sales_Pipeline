@@ -50,11 +50,11 @@ Objetivos:
 ## Screenshots
 
 ### Pipeline en Databricks
-![Pipeline Diagram](./screenshots/test_pipelines_diagram.png)  
-![Pipeline Runs](./screenshots/tests_pipeline.png)  
+![Pipeline Diagram](./Screenshots/test_pipelines_diagram.png)  
+![Pipeline Runs](./Screenshots/tests_pipeline.png)  
 
 ### Dashboard de Ventas (Power BI)
-![Sales Dashboard](./screenshots/sales_dashboard.png)  
+![Sales Dashboard](./Screenshots/sales_dashboard.png)  
 
 ---
 
