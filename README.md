@@ -1,7 +1,15 @@
 # Databricks Sales Pipeline
 
+## Table of Contents
+* [Overview](#overview)
+* [Dataset Description](#dataset-description)
+* [Technologies](#technologies)
+* [Pipeline](#pipeline)
+* [Screenshots](#screenshots)
 ## Overview
-Este proyecto implementa un **pipeline ETL/ELT en Databricks** bajo la **arquitectura Medallion (Bronze–Silver–Gold)**. Utiliza un dataset de ventas para simular el flujo completo de ingestión, limpieza, transformación y visualización en Power BI.  
+Este proyecto implementa un pipeline ELT de extremo a extremo en Databricks utilizando la Arquitectura Medallion (Bronze–Silver–Gold) con un dataset de ventas minoristas (~19 millones de registros).
+
+El pipeline simula una plataforma moderna de datos, integrando procesos de ingestión, limpieza, transformación y visualización del desempeño de ventas en Power BI.
 
 Objetivos:  
 - Ingestar datos raw desde CSV (Bronze).  
@@ -11,7 +19,7 @@ Objetivos:
 
 ---
 
-## Dataset
+## Dataset_Description
 
 | Column                | Type    | Description                    |
 |-----------------------|---------|--------------------------------|
